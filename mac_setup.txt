@@ -1,0 +1,49 @@
+HOMEBREW
+Links:
+  https://brew.sh/
+  https://sourabhbajaj.com/mac-setup/Homebrew/
+  https://docs.python-guide.org/starting/install3/osx/#doing-it-right
+Requirements:
+  Command Line Tools (CLT) for Xcode: xcode-select --install (opens browsertab)
+Installation:
+  /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+
+FIREFOX
+Installation:
+  "brew cask install firefox"
+  Login with my gmail-account and sync all
+
+GIT
+Links:
+  https://sourabhbajaj.com/mac-setup/Git/
+  https://help.github.com/en/articles/caching-your-github-password-in-git
+  https://stackoverflow.com/questions/17659206/git-push-results-in-authentication-failed
+  https://help.github.com/en/articles/creating-a-personal-access-token-for-the-command-line
+Installation:
+  "brew cask install git"
+
+VISUAL STUDIO CODE
+Installation:
+  "brew cask install visual-studio-code"
+  Install settings sync-extension, login to github via extension-button and Sync/Download settings
+
+PYTHON
+Links:
+  https://docs.python-guide.org/starting/install3/osx/#working-with-python-3
+Installation:
+  "brew cask install python"
+
+PIPENV
+Installation:
+  "brew cask install pipenv"
+
+DROPBOX
+Installation:
+  "brew cask install dropbox"
+
+HEROKU
+Links:
+  https://devcenter.heroku.com/articles/heroku-cli
+Installation:
+  "brew tap heroku/brew && brew install heroku"
+  "heroku login"
