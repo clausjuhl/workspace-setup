@@ -47,3 +47,8 @@ Links:
 Installation:
   "brew tap heroku/brew && brew install heroku"
   "heroku login"
+
+REMOVE APPLE APPS
+Links:
+  https://lifehacker.com/how-to-uninstall-annoying-macos-apps-1824253576
+  https://nektony.com/how-to/uninstall-default-apple-apps-on-mac
