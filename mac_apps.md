@@ -1,0 +1,24 @@
+# Apps to install
+- Git
+- ArchiveWeb.page
+- dbptk-app
+- Docker
+- Dropbox
+- Firefox
+- Chrome
+- NetNewsWire
+- Playground
+- OpenRefine
+- Postman
+- ProtonVPN
+- ReplayWeb.page
+- The Unarchiver
+- Tor Browser
+- Transmission
+- Visual Studio Code
+  - how to get extensions and settings?
+- XLD
+  - Ripping CDs
+- DB Browser for SQlite
+- MySQLWorkbench
+- 
