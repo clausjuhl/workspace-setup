@@ -11,6 +11,7 @@ Use a global .gitignore like so (from .gitconfig in home directory):
 [credential]
 	helper = wincred
 ````
+Ref: https://julien.danjou.info/properly-managing-your-gitignore/
 
 ### Global .gitignore
 ````txt
