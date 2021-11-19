@@ -1,7 +1,7 @@
 ## Apps and tools
 ### Core tools
 #### Git
-See separate descriptionfile
+See separate descriptionfile. Use all default settings.
 
 #### VSCODE
 Log in with github to load extensions and settings from cloud
@@ -13,12 +13,26 @@ Installation: https://chocolatey.org/install
 - Install with chocolatey
 - copy config from .starship-folder in user root
 
-#### Gitbash
-- Install via Git
-- copy configuration from .bash_profile in user root
--  
-#### Python
-Install via Microsoft Store
+#### pyenv
+Install with Git: https://github.com/pyenv-win/pyenv-win#installation
+Update with Git: https://github.com/pyenv-win/pyenv-win#how-to-update-pyenv
+
+Installs into .pyenv in user root.
+
+#### Git + Gitbash
+- copy configuration from .bash_profile, .gitignore and .gitconfig in user root
+
+#### pipx
+Installation: https://pypa.github.io/pipx/installation/
+
+Adds .local folder to user root wherein python commandline tools are installed
+
+#### Poetry
+Install via pipx
+
+### Python
+Install via pyenv
+Installs into
 
 #### Microsoft Azure Storage Explorer
 Login via Subscription
@@ -29,22 +43,5 @@ Login via Subscription
 
 ### Nice To Have
 - VLC
-- 
-COMMANDLINE APPS
-bitmagasin
-git
 
-ARKIVERINGSVERSIONER
-SABA
-ADA - Rigsarkivet
-TEA33
-SSQLCONVERTER
-MSSQL SERVER            SERVERNAME: WRK4000098\SQLEXPRESS AUTHENTICATION: WINDOWS
-
-GENERAL APPS
-bulk rename utility
-VLC
-FileZilla
-OpenRefine
-Karen's Power Tools - Directory Printer
 
