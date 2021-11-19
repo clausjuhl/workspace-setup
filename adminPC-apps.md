@@ -1,32 +1,35 @@
-## Git
-Use a global .gitignore like so (from .gitconfig in home directory):
+## Apps and tools
+### Core tools
+#### Git
+See separate descriptionfile
 
-````
-[core]
-	editor = \"C:\\Users\\azkb075\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe\" --wait
-	excludesFil = \"C:\\Users\\azkb075\\.gitignore\"
-[user]
-	name = Claus Juhl Knudsen
-	email = cjk@aarhus.dk
-[credential]
-	helper = wincred
-````
+#### VSCODE
+Log in with github to load extensions and settings from cloud
 
-### .gitignore
-````txt
-.vscode
-thumbs.db
-.DS_Store
-````
+#### Chocolatey
+Installation: https://chocolatey.org/install
 
-EDITOR
-VisualStudioCode
+#### Starship
+- Install with chocolatey
+- copy config from .starship-folder in user root
 
-DEVELOPMENT
-GoogleAppLauncher
-Python
-Datacurator
+#### Gitbash
+- Install via Git
+- copy configuration from .bash_profile in user root
+-  
+#### Python
+Install via Microsoft Store
 
+#### Microsoft Azure Storage Explorer
+Login via Subscription
+
+#### Docker desktop
+
+#### Slack
+
+### Nice To Have
+- VLC
+- 
 COMMANDLINE APPS
 bitmagasin
 git
