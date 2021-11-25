@@ -7,9 +7,7 @@
 - Firefox
 - Chrome
 - NetNewsWire
-- Playground
 - OpenRefine
-- Postman
 - ProtonVPN
 - ReplayWeb.page
 - The Unarchiver
