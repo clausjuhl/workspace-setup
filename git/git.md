@@ -1,5 +1,5 @@
 ## Git
-When installing on Windows AdminPCs, use all default options!
+When installing on Windows AdminPCs, use basically all default options, incl. wincred.
 
 Use a global .gitignore like so (from .gitconfig in home directory):
 
